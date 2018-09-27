@@ -13,6 +13,8 @@ git pull
 git push --all
 ```
 
+[ ![Download](https://api.bintray.com/packages/rzrasel/CommonLibraries/fine-log-writer/images/download.svg?version=100.00.01) ](https://bintray.com/rzrasel/CommonLibraries/fine-log-writer/100.00.01/link)
+
 Download
 --------
 
