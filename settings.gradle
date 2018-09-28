@@ -1,1 +1,1 @@
-include ':appcore', ':logwriterlibrary'
+include ':appusagesexample', ':logwriterlibrary'

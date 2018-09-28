@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AndLogWriter.iml" filepath="$PROJECT_DIR$/AndLogWriter.iml" />
-      <module fileurl="file://$PROJECT_DIR$/appcore/appcore.iml" filepath="$PROJECT_DIR$/appcore/appcore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/appusagesexample/appusagesexample.iml" filepath="$PROJECT_DIR$/appusagesexample/appusagesexample.iml" />
       <module fileurl="file://$PROJECT_DIR$/logwriterlibrary/logwriterlibrary.iml" filepath="$PROJECT_DIR$/logwriterlibrary/logwriterlibrary.iml" />
     </modules>
   </component>
