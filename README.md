@@ -13,7 +13,8 @@ git pull
 git push --all
 ```
 
-[ ![Download](https://api.bintray.com/packages/rzrasel/CommonLibraries/fine-log-writer/images/download.svg?version=100.00.01) ](https://bintray.com/rzrasel/CommonLibraries/fine-log-writer/100.00.01/link)
+<a href='https://bintray.com/rzrasel/CommonLibraries/and-fine-log-writer?source=watch' alt='Get automatic notifications about new "and-fine-log-writer" versions'><img src='https://www.bintray.com/docs/images/bintray_badge_color.png'></a><a href='https://bintray.com/rzrasel/CommonLibraries/and-fine-log-writer?source=watch' alt='Get automatic notifications about new "and-fine-log-writer" versions'><img src='https://www.bintray.com/docs/images/bintray_badge_color.png'></a>
+[ ![Download](https://api.bintray.com/packages/rzrasel/CommonLibraries/and-fine-log-writer/images/download.svg) ](https://bintray.com/rzrasel/CommonLibraries/and-fine-log-writer/_latestVersion)
 
 Download
 --------
